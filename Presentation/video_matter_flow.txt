@@ -1,0 +1,18 @@
+The flow of video is:
+a. Opening Hook (30 seconds)
+a.aProblem Statement
+a.bPersonal Connection
+a.c Solution Teaser
+
+b. Market opportunity (1 min)
+ market size, target audience, problem validation, competitive advantage
+
+c. product demo (3-4 min)
+  LIVE WALKTHROUGH
+    user registration, upload flow, browser exp, discovery process, contact sys, mobile responsiveness
+
+d. Technical ARCHITECTURE 
+    backend capabilites, real time features, scalability, security
+
+e. Impact and future vision
+    environmental impact, community building, scalability plan 
