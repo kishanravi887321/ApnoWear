@@ -144,9 +144,9 @@ This project is developed solely for educational and hackathon purposes.
 
 For queries and collaborations, reach out to:  
 **Neha Kasera (Team Lead)**  
-📧 nehakasera1823@gmail.com
+nehakasera1823@gmail.com
 
 ---
 
 Thank you for exploring ApnoWear — together, let’s make fashion sustainable!
-```
+
