@@ -27,3 +27,17 @@ class ItemCreateView(generics.CreateAPIView):
         serializer.save(user=request.user)
 
         return Response(serializer.data, status=status.HTTP_201_CREATED)
+    
+
+
+class MylistItemsView(generics.ListAPIView):
+    serializer_class = ItemSerializer   
+    permission_classes = [permissions.IsAuthenticated]
+
+    def get(self,request):
+        user=request.user
+        my_items=Item.objects.filter(user=user).order_by('-created_at')
+        seriralizer=ItemSerializer(my_items,many=True)
+        return Response(seriralizer.data,status=200)
+
+    
