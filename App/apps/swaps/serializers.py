@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from .models import Purchase
-from items.serializers import ItemSerializer
+from apps.items.serializers import ItemSerializer
 
 class PurchaseSerializer(serializers.ModelSerializer):
     item = ItemSerializer()
