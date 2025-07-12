@@ -54,7 +54,7 @@
 
 - **Backend:** Python, Django  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Database:** SQLite (default, can be upgraded)  
+- **Database:** Postgres
 - **APIs:** Django REST Framework  
 - **Authentication:** Django built-in authentication
 
