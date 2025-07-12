@@ -35,7 +35,7 @@
 
 ## 📺 Watch Our Demo Video
 
-[![Watch the Demo](Presentation/images/WhatsApp Image 2025-07-12 at 18.25.40_19d8d23b.jpg)](https://youtu.be/usAoFGzeSZo)
+[[Watch the Demo](Presentation/images/WhatsApp Image 2025-07-12 at 18.25.40_19d8d23b.jpg)](https://youtu.be/usAoFGzeSZo)
 
 
 ## Features
