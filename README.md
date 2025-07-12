@@ -134,6 +134,12 @@ We welcome open-source contributions. Here's how you can contribute:
 
 ---
 
+## Youtube Link
+
+The link to the video is https://youtu.be/usAoFGzeSZo
+
+---
+
 ## License
 
 This project is developed solely for educational and hackathon purposes.
