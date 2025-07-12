@@ -22,7 +22,8 @@
 📷 ![Demo Thumbnail](Presentation/images/WhatsApp%20Image%202025-07-12%20at%2018.25.40_19d8d23b.jpg)
 
 ---
-
+"""" Database 
+[Watch the Demo](https://youtu.be/o2FQM2VzWkw) 
 ### 💎 Features
 
 ✨ **Authentication** – Secure login/signup with email-password.  
@@ -38,7 +39,7 @@
 
 - 🧠 **Backend:** Python, Django
 - 🎨 **Frontend:** HTML, CSS, JavaScript
-- 💾 **Database:** SQLite (can upgrade to PostgreSQL)
+- 💾 **Database:** PostgreSql
 - 🔌 **API:** Django REST Framework
 - 🔐 **Auth:** Django’s built-in auth
 
