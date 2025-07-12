@@ -134,11 +134,10 @@ We welcome open-source contributions. Here's how you can contribute:
 
 ---
 
-## Youtube Link
+## 📺 Watch Our Demo Video
 
-The link to the video is https://youtu.be/usAoFGzeSZo
+[![Watch the Demo](Presentation/images/apnowear_video_thumbnail.png)](https://youtu.be/usAoFGzeSZo)
 
----
 
 ## License
 
