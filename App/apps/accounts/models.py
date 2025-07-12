@@ -12,7 +12,8 @@ class CustomUserManager(BaseUserManager):
             username=username,
             email=self.normalize_email(email),
             role=role,
-            bio=bio
+            bio=bio,
+           
         )
 
         user.set_password(password)
